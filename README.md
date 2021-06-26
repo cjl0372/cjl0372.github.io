@@ -1,6 +1,6 @@
-# cjl0372.github.io 
+# noahcn.github.io 
 [![](https://img.shields.io/badge/blog-@champyin-red.svg)](http://blog.cjl0.cn)
-[![](https://data.jsdelivr.com/v1/package/gh/cjl0372/cjl0372.github.io/badge)](https://www.jsdelivr.com/package/gh/cjl0372/cjl0372.github.io)
+[![](https://data.jsdelivr.com/v1/package/gh/noahcn/noahcn.github.io/badge)](https://www.jsdelivr.com/package/gh/noahcn/noahcn.github.io)
 
 >只是一个引导页
 
@@ -8,15 +8,15 @@
 
 预览图：
 
-[![](https://cdn.jsdelivr.net/gh/cjl0372/cdn@master/cjlhtml.png)](https://cjl0372.github.io/)
+[![](https://cdn.jsdelivr.net/gh/noahcn/cdn@master/cjlhtml.png)](https://noahcn.github.io/)
 ----
 
 ## 网站左下角播放器代码(v1版)
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/cjl0372/cjl0372.github.io@master/APlayer.min.css">  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/noahcn/noahcn.github.io@master/APlayer.min.css">  
 <div class="aplayer" data-id="3778678" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"   data-volume="0.6" ></div>
-<script src="https://cdn.jsdelivr.net/gh/cjl0372/cjl0372.github.io@master/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/cjl0372/cjl0372.github.io@master/Meting.min.js"></script>	
+<script src="https://cdn.jsdelivr.net/gh/noahcn/noahcn.github.io@master/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/noahcn/noahcn.github.io@master/Meting.min.js"></script>	
 ```
 ----
 
